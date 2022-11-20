@@ -13,7 +13,7 @@ function Card(props) {
         <p>{props.desc}</p>
       </div>
     </li>
-  )
+  );
 }
 
 export default Card;
