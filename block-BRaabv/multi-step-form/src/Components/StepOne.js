@@ -83,7 +83,7 @@ class Signupone extends React.Component {
           </div>
         </form>
       </section>
-    );
+    )
   }
 }
 
