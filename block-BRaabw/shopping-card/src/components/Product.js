@@ -22,7 +22,7 @@ class Product extends React.Component {
       card: '',
       each: [],
     });
-  };
+  }
 
   render() {
     var elem = this.props.allData;
